@@ -39,5 +39,4 @@ Then i recorded my screen to gif on Mac with Quicktime  and save result to [asse
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrofelipelucena&label=Profile%20views&color=0e75b6&style=flat" alt="pedrofelipelucena" /> </p>
 
