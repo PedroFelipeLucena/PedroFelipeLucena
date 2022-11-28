@@ -1,9 +1,3 @@
-<!--
-How to make the bio gif ?
-💜 Thanks to [matyo91](https://github.com/matyo91)
-
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrofelipelucena&label=Profile%20views&color=0e75b6&style=flat" alt="pedrofelipelucena" /> </p>
 <h1 align="center">Hi 👋, I'm Pedro</h1>
