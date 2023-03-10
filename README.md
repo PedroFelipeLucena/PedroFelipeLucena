@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **tecnologia, cloud, github.**
 
-- 📫 How to reach me **pedrofelipedelucena@outlook.com**
+- 📫 How to reach me **pedrofelipelucena@protonmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pedro-felipe-ferreira-de-lucena-078942204/](https://www.linkedin.com/in/pedro-felipe-ferreira-de-lucena-078942204/)
 
