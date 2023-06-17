@@ -27,7 +27,7 @@
   </br>
 <h3 align="left"> 📨 Connect with me:</h3>
 <p align="left">
-    
+ [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6484800887dba4077125b800?variant=dark)](https://roadmap.sh)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-felipe-ferreira-de-lucena-078942204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-felipe-ferreira-de-lucena-078942204/" height="30" width="40" /></a>
 <a href="https://instagram.com/pedrinlucena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrinlucena" height="30" width="40" /></a>
 
